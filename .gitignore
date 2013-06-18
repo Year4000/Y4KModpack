@@ -3,6 +3,9 @@
 /bin/lwjgl.jar
 /bin/lwjgl_util.jar
 /resources/mod
+/resources/music
+/resources/newmusic
+/resources/newsound
 /resources/sound3/ambient
 /resources/sound3/damage
 /resources/sound3/dig
@@ -11,6 +14,11 @@
 /resources/sound3/liquid
 /resources/sound3/minecraft
 /resources/sound3/mob
+/resources/sound3/note
+/resources/sound3/portal
+/resources/sound3/random
+/resources/sound3/step
+/resources/sound3/tile
 /saves
 /stats
 /texturepacks
@@ -21,3 +29,4 @@
 /output-client.log
 /uninstall.dat
 /update_cache.xml
+/liteloader.properties
