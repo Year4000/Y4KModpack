@@ -1,0 +1,20 @@
+colors:
+    cuboidGrid: '#3333CC'
+    cuboidEdge: '#4B4BCC'
+    cuboidFirstPoint: '#33CC33'
+    cuboidSecondPoint: '#CC3333'
+    
+    cylinderEdge: '#4B4BCC'
+    cylinderGrid: '#3333CC'
+    cylinderPoint: '#CC33CC'
+    
+    polyGrid: '#3333CC'
+    polyEdge: '#4B4BCC'
+    polyPoint: '#33CCCC'
+    
+    ellipsoidGrid: '#4B4BCC'
+    ellipsoidPoint: '#CCCC33'
+
+debug: false
+
+ignoreUpdates: true
