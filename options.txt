@@ -59,21 +59,13 @@ key_key.extra:46
 key_key.charge:47
 key_key.toggle:34
 key_key.release:19
-key_Accelerate Key:17
-key_Decelerate Key:31
-key_Left Key:30
-key_Right Key:32
-key_Up Key:57
-key_Down key:42
-key_Exit Key:18
-key_Inventory key:19
-key_Bomb Key:47
-key_Gun Key:29
-key_Control Switch key:46
-key_Teams Menu Key:34
-key_Teams Scores Key:35
-key_Open Muse Keybind GUI:37
-key_Go Down (Flight Control):44
-key_Cycle Tool Backward:-1
-key_Cycle Tool Forward:-1
-key_Zoom (MPS):21
+key_FZ Bag of Holding:41
+key_FZ Pocket Crafting Table:46
+key_FZ Exo1:79
+key_FZ Exo2:80
+key_FZ Exo3:81
+key_Open Backpack:48
+key_Locomotive Faster Key:52
+key_Locmotive Slower Key:51
+key_Locmotive Mode Key:50
+key_FZ vanilla sprint:0

@@ -6,6 +6,8 @@
 /resources/music
 /resources/newmusic
 /resources/newsound
+/resources/pe
+/resources/sound
 /resources/sound3/ambient
 /resources/sound3/damage
 /resources/sound3/dig
@@ -19,6 +21,8 @@
 /resources/sound3/random
 /resources/sound3/step
 /resources/sound3/tile
+/resources/streaming
+/crash-reports
 /saves
 /stats
 /texturepacks
@@ -30,3 +34,5 @@
 /uninstall.dat
 /update_cache.xml
 /liteloader.properties
+/debug.stitched_items.png
+/debug.stitched_terrain.png
