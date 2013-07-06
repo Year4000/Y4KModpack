@@ -1,5 +1,5 @@
-music:1.0
-sound:1.0
+music:0.5
+sound:0.5
 invertYMouse:false
 mouseSensitivity:0.5
 fov:0.0
@@ -65,6 +65,12 @@ key_FZ Exo1:79
 key_FZ Exo2:80
 key_FZ Exo3:81
 key_Open Backpack:48
+key_Open MPS Keybind GUI:37
+key_Go Down (MPS Flight Control):44
+key_Cycle Tool Backward (MPS):-1
+key_Cycle Tool Forward (MPS):-1
+key_Zoom (MPS):21
+key_Cosmetic (MPS):38
 key_Locomotive Faster Key:52
 key_Locmotive Slower Key:51
 key_Locmotive Mode Key:50
